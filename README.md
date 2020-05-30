@@ -1,29 +1,9 @@
-# cloud-storage
+# 雲端硬碟
 
-## Project setup
-```
-npm install
-```
+### 比賽網址
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+##### 參與前端修練精神時光屋比賽(https://challenge.thef2e.com/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 演示
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[線上觀看](https://virtools.github.io/CLOUD-STORAGE/)
